@@ -1,0 +1,6 @@
+write('Enter a number'),
+|    read(Num),
+|    nl,
+|    Res ls Num^3,
+|    write('Result ls'),
+|    write(Res),
